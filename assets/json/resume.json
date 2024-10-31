@@ -85,7 +85,9 @@
       "startDate": "2019-10-01",
       "endDate": "2021-10-01",
       "score": "Honors - 110L, GPA 29.85/30",
-      "courses": ["Thesis in collaboration with CERN, CNR, and medical school of Athens. Title: Federated learning architectures and algorithms for diagnostic imaging in healthcare networks."]
+      "courses": [
+        "Thesis in collaboration with CERN, CNR, and medical school of Athens. Title: Federated learning architectures and algorithms for diagnostic imaging in healthcare networks."
+      ]
     },
     {
       "institution": "Politecnico di Milano, Milan, Italy",
@@ -179,216 +181,210 @@
   ],
   "publications": [
     {
-        "name": "Weighted Consensus Algorithms in Distributed and Federated Learning",
-        "authors": "B. Camajori Tedeschini, S. Savazzi, M. Nicoli",
-        "releaseDate": "2025",
-        "publisher": "IEEE Transactions on Network Science and Engineering (TNSE), submitted",
-        "url": "",
-        "summary": ""
+      "name": "Weighted Consensus Algorithms in Distributed and Federated Learning",
+      "authors": "B. Camajori Tedeschini, S. Savazzi, M. Nicoli",
+      "releaseDate": "2025",
+      "publisher": "IEEE Transactions on Network Science and Engineering (TNSE), submitted",
+      "url": "",
+      "summary": ""
     },
     {
-        "name": "Integration of 5G and GNSS Technologies for Enhanced Positioning: an Experimental Study",
-        "authors": "M. Brambilla, M. Alghisi, B. Camajori Tedeschini, A. Fumagalli, et al.",
-        "releaseDate": "2024-11",
-        "publisher": "IEEE Open Journal of the Communications Society (OJ-COMS)",
-        "url": "https://doi.org/10.1109/OJCOMS.2024.3487270",
-        "summary": ""
+      "name": "Integration of 5G and GNSS Technologies for Enhanced Positioning: an Experimental Study",
+      "authors": "M. Brambilla, M. Alghisi, B. Camajori Tedeschini, A. Fumagalli, et al.",
+      "releaseDate": "2024-11",
+      "publisher": "IEEE Open Journal of the Communications Society (OJ-COMS)",
+      "url": "https://doi.org/10.1109/OJCOMS.2024.3487270",
+      "summary": ""
     },
     {
-        "name": "Sidelink-Enabled Cooperative Localization for xG Non-Terrestrial Networks",
-        "authors": "J. C. Morrison, N. Schatz, S. Kim, G. Kwon, B. Camajori Tedeschini, et al.",
-        "releaseDate": "2024-11",
-        "publisher": "IEEE Military Communications Conference (MILCOM)",
-        "url": "NOT YET (to appear)",
-        "summary": ""
+      "name": "Sidelink-Enabled Cooperative Localization for xG Non-Terrestrial Networks",
+      "authors": "J. C. Morrison, N. Schatz, S. Kim, G. Kwon, B. Camajori Tedeschini, et al.",
+      "releaseDate": "2024-11",
+      "publisher": "IEEE Military Communications Conference (MILCOM)",
+      "url": "NOT YET (to appear)",
+      "summary": ""
     },
     {
-        "name": "Location Verification in Next-Generation Non-Terrestrial Networks",
-        "authors": "N. Schatz, S. Kim, G. Kwon, B. Camajori Tedeschini, et al.",
-        "releaseDate": "2024-11",
-        "publisher": "IEEE Military Communications Conference (MILCOM)",
-        "url": "NOT YET (to appear)",
-        "summary": ""
+      "name": "Location Verification in Next-Generation Non-Terrestrial Networks",
+      "authors": "N. Schatz, S. Kim, G. Kwon, B. Camajori Tedeschini, et al.",
+      "releaseDate": "2024-11",
+      "publisher": "IEEE Military Communications Conference (MILCOM)",
+      "url": "NOT YET (to appear)",
+      "summary": ""
     },
     {
-        "name": "Multi-agent Reinforcement Learning for Distributed Cooperative Positioning",
-        "authors": "B. Camajori Tedeschini, M. Brambilla, M. Nicoli, M. Z. Win",
-        "releaseDate": "2024-10",
-        "publisher": "IEEE Transactions on Intelligent Vehicles (TIV)",
-        "url": "https://doi.org/10.1109/TIV.2024.3471909",
-        "summary": ""
+      "name": "Multi-agent Reinforcement Learning for Distributed Cooperative Positioning",
+      "authors": "B. Camajori Tedeschini, M. Brambilla, M. Nicoli, M. Z. Win",
+      "releaseDate": "2024-10",
+      "publisher": "IEEE Transactions on Intelligent Vehicles (TIV)",
+      "url": "https://doi.org/10.1109/TIV.2024.3471909",
+      "summary": ""
     },
     {
-        "name": "A Tutorial on 5G Positioning",
-        "authors": "L. Italiano, B. Camajori Tedeschini, M. Brambilla, et al.",
-        "releaseDate": "2024-09",
-        "publisher": "IEEE Communications Surveys & Tutorials (COMST)",
-        "url": "https://doi.org/10.1109/COMST.2024.3449031",
-        "summary": ""
+      "name": "A Tutorial on 5G Positioning",
+      "authors": "L. Italiano, B. Camajori Tedeschini, M. Brambilla, et al.",
+      "releaseDate": "2024-09",
+      "publisher": "IEEE Communications Surveys & Tutorials (COMST)",
+      "url": "https://doi.org/10.1109/COMST.2024.3449031",
+      "summary": ""
     },
     {
-        "name": "Real-time Bayesian Neural Networks for 6G Cooperative Positioning and Tracking",
-        "authors": "B. Camajori Tedeschini, G. Kwon, M. Nicoli, M. Z. Win",
-        "releaseDate": "2024-09",
-        "publisher": "IEEE Journal on Selected Areas in Communications (JSAC)",
-        "url": "https://doi.org/10.1109/JSAC.2024.3413950",
-        "summary": ""
+      "name": "Real-time Bayesian Neural Networks for 6G Cooperative Positioning and Tracking",
+      "authors": "B. Camajori Tedeschini, G. Kwon, M. Nicoli, M. Z. Win",
+      "releaseDate": "2024-09",
+      "publisher": "IEEE Journal on Selected Areas in Communications (JSAC)",
+      "url": "https://doi.org/10.1109/JSAC.2024.3413950",
+      "summary": ""
     },
     {
-        "name": "Split Consensus Federated Learning: an Approach for Distributed Training and Inference",
-        "authors": "B. Camajori Tedeschini, M. Brambilla, M. Nicoli",
-        "releaseDate": "2024-08",
-        "publisher": "IEEE Access",
-        "url": "https://doi.org/10.1109/ACCESS.2024.3446577",
-        "summary": ""
+      "name": "Split Consensus Federated Learning: an Approach for Distributed Training and Inference",
+      "authors": "B. Camajori Tedeschini, M. Brambilla, M. Nicoli",
+      "releaseDate": "2024-08",
+      "publisher": "IEEE Access",
+      "url": "https://doi.org/10.1109/ACCESS.2024.3446577",
+      "summary": ""
     },
     {
-        "name": "Cooperative Positioning with Multi-Agent Reinforcement Learning",
-        "authors": "B. Camajori Tedeschini, M. Brambilla, M. Nicoli, M. Z. Win",
-        "releaseDate": "2024-07",
-        "publisher": "27th IEEE International Conference on Information Fusion (FUSION)",
-        "url": "https://doi.org/10.23919/FUSION59988.2024.10706524",
-        "summary": ""
+      "name": "Cooperative Positioning with Multi-Agent Reinforcement Learning",
+      "authors": "B. Camajori Tedeschini, M. Brambilla, M. Nicoli, M. Z. Win",
+      "releaseDate": "2024-07",
+      "publisher": "27th IEEE International Conference on Information Fusion (FUSION)",
+      "url": "https://doi.org/10.23919/FUSION59988.2024.10706524",
+      "summary": ""
     },
     {
-        "name": "Pedestrian Positioning in Urban Environments with 5G Technology",
-        "authors": "L. Italiano, B. Camajori Tedeschini, M. Brambilla, M. Nicoli",
-        "releaseDate": "2024-06",
-        "publisher": "IEEE 22th Mediterranean Communication and Computer Networking Conference (MedComNet)",
-        "url": "https://doi.org/10.1109/MedComNet62012.2024.10578126",
-        "summary": ""
+      "name": "Pedestrian Positioning in Urban Environments with 5G Technology",
+      "authors": "L. Italiano, B. Camajori Tedeschini, M. Brambilla, M. Nicoli",
+      "releaseDate": "2024-06",
+      "publisher": "IEEE 22th Mediterranean Communication and Computer Networking Conference (MedComNet)",
+      "url": "https://doi.org/10.1109/MedComNet62012.2024.10578126",
+      "summary": ""
     },
     {
-        "name": "On the Impact of Data Heterogeneity in Federated Learning Environments with Application to Healthcare Networks",
-        "authors": "U. Milasheuski, L. Barbieri, B. Camajori Tedeschini, M. Nicoli, S. Savazzi",
-        "releaseDate": "2024-06",
-        "publisher": "IEEE Conference on Artificial Intelligence",
-        "url": "https://doi.org/10.1109/CAI59869.2024.00185",
-        "summary": ""
+      "name": "On the Impact of Data Heterogeneity in Federated Learning Environments with Application to Healthcare Networks",
+      "authors": "U. Milasheuski, L. Barbieri, B. Camajori Tedeschini, M. Nicoli, S. Savazzi",
+      "releaseDate": "2024-06",
+      "publisher": "IEEE Conference on Artificial Intelligence",
+      "url": "https://doi.org/10.1109/CAI59869.2024.00185",
+      "summary": ""
     },
     {
-        "name": "Empowering 6G Positioning and Tracking with Bayesian Neural Networks",
-        "authors": "B. Camajori Tedeschini, G. Kwon, M. Nicoli, M. Z. Win",
-        "releaseDate": "2024-06",
-        "publisher": "IEEE International Conference on Communications (ICC)",
-        "url": "https://doi.org/10.1109/ICC51166.2024.10622691",
-        "summary": ""
+      "name": "Empowering 6G Positioning and Tracking with Bayesian Neural Networks",
+      "authors": "B. Camajori Tedeschini, G. Kwon, M. Nicoli, M. Z. Win",
+      "releaseDate": "2024-06",
+      "publisher": "IEEE International Conference on Communications (ICC)",
+      "url": "https://doi.org/10.1109/ICC51166.2024.10622691",
+      "summary": ""
     },
     {
-        "name": "Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning",
-        "authors": "L. Barbieri, B. Camajori Tedeschini, M. Brambilla, M. Nicoli",
-        "releaseDate": "2024-03",
-        "publisher": "IEEE Transactions on Signal Processing (TSP)",
-        "url": "https://doi.org/10.1109/TSP.2024.3377375",
-        "summary": ""
+      "name": "Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning",
+      "authors": "L. Barbieri, B. Camajori Tedeschini, M. Brambilla, M. Nicoli",
+      "releaseDate": "2024-03",
+      "publisher": "IEEE Transactions on Signal Processing (TSP)",
+      "url": "https://doi.org/10.1109/TSP.2024.3377375",
+      "summary": ""
     },
     {
-        "name": "Deep-Learning-Based Radio Map Reconstruction for V2X Communications",
-        "authors": "S. Roger, M. Brambilla, B. Camajori Tedeschini, C. Botella-Mascarell, M. Cobos, M. Nicoli",
-        "releaseDate": "2023-11",
-        "publisher": "IEEE Transactions on Vehicular Technology (TVT)",
-        "url": "https://doi.org/10.1109/TVT.2023.3326935",
-        "summary": ""
+      "name": "Deep-Learning-Based Radio Map Reconstruction for V2X Communications",
+      "authors": "S. Roger, M. Brambilla, B. Camajori Tedeschini, C. Botella-Mascarell, M. Cobos, M. Nicoli",
+      "releaseDate": "2023-11",
+      "publisher": "IEEE Transactions on Vehicular Technology (TVT)",
+      "url": "https://doi.org/10.1109/TVT.2023.3326935",
+      "summary": ""
     },
     {
-        "name": "5G Positioning: A Feasibility Analysis with Current Network Deployment",
-        "authors": "B. Camajori Tedeschini, M. Brambilla, L. Italiano, et al.",
-        "releaseDate": "2023-09",
-        "publisher": "Scientific Reports (Nature)",
-        "url": "https://doi.org/10.1038/s41598-023-42426-1",
-        "summary": ""
+      "name": "5G Positioning: A Feasibility Analysis with Current Network Deployment",
+      "authors": "B. Camajori Tedeschini, M. Brambilla, L. Italiano, et al.",
+      "releaseDate": "2023-09",
+      "publisher": "Scientific Reports (Nature)",
+      "url": "https://doi.org/10.1038/s41598-023-42426-1",
+      "summary": ""
     },
     {
-        "name": "Cooperative Deep-Learning Positioning in mmWave 5G-Advanced Networks",
-        "authors": "B. Camajori Tedeschini, M. Nicoli",
-        "releaseDate": "2023-09",
-        "publisher": "IEEE Journal on Selected Areas in Communications (JSAC)",
-        "url": "https://doi.org/10.1109/JSAC.2023.3322795",
-        "summary": ""
+      "name": "Cooperative Deep-Learning Positioning in mmWave 5G-Advanced Networks",
+      "authors": "B. Camajori Tedeschini, M. Nicoli",
+      "releaseDate": "2023-09",
+      "publisher": "IEEE Journal on Selected Areas in Communications (JSAC)",
+      "url": "https://doi.org/10.1109/JSAC.2023.3322795",
+      "summary": ""
     },
     {
-        "name": "Message Passing Neural Network Versus Message Passing Algorithm for Cooperative Positioning",
-        "authors": "B. Camajori Tedeschini, M. Brambilla, M. Nicoli",
-        "releaseDate": "2023-08",
-        "publisher": "IEEE Transactions on Cognitive Communications and Networking (TCCN)",
-        "url": "https://doi.org/10.1109/TCCN.2023.3307953",
-        "summary": ""
+      "name": "Message Passing Neural Network Versus Message Passing Algorithm for Cooperative Positioning",
+      "authors": "B. Camajori Tedeschini, M. Brambilla, M. Nicoli",
+      "releaseDate": "2023-08",
+      "publisher": "IEEE Transactions on Cognitive Communications and Networking (TCCN)",
+      "url": "https://doi.org/10.1109/TCCN.2023.3307953",
+      "summary": ""
     },
     {
-        "name": "Cooperative LiDAR Sensing for Pedestrian Detection: Data Association Based on Message Passing Neural Networks",
-        "authors": "B. Camajori Tedeschini, M. Brambilla, L. Barbieri, G. Balducci, M. Nicoli",
-        "releaseDate": "2023-08",
-        "publisher": "IEEE Transactions on Signal Processing (TSP)",
-        "url": "https://doi.org/10.1109/TSP.2023.3304002",
-        "summary": ""
+      "name": "Cooperative LiDAR Sensing for Pedestrian Detection: Data Association Based on Message Passing Neural Networks",
+      "authors": "B. Camajori Tedeschini, M. Brambilla, L. Barbieri, G. Balducci, M. Nicoli",
+      "releaseDate": "2023-08",
+      "publisher": "IEEE Transactions on Signal Processing (TSP)",
+      "url": "https://doi.org/10.1109/TSP.2023.3304002",
+      "summary": ""
     },
     {
-        "name": "Implicit Vehicle Positioning with Cooperative LiDAR Sensing",
-        "authors": "L. Barbieri, B. Camajori Tedeschini, M. Brambilla, M. Nicoli",
-        "releaseDate": "2023-06",
-        "publisher": "48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
-        "url": "https://doi.org/10.1109/ICASSP49357.2023.10094864",
-        "summary": ""
+      "name": "Implicit Vehicle Positioning with Cooperative LiDAR Sensing",
+      "authors": "L. Barbieri, B. Camajori Tedeschini, M. Brambilla, M. Nicoli",
+      "releaseDate": "2023-06",
+      "publisher": "48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "url": "https://doi.org/10.1109/ICASSP49357.2023.10094864",
+      "summary": ""
     },
     {
-        "name": "On the Latent Space of mmWave MIMO Channels for NLOS Identification in 5G-Advanced Systems",
-        "authors": "B. Camajori Tedeschini, M. Nicoli, M. Z. Win",
-        "releaseDate": "2023-05",
-        "publisher": "IEEE Journal on Selected Areas in Communications (JSAC)",
-        "url": "https://doi.org/10.1109/JSAC.2023.3273769",
-        "summary": ""
+      "name": "On the Latent Space of mmWave MIMO Channels for NLOS Identification in 5G-Advanced Systems",
+      "authors": "B. Camajori Tedeschini, M. Nicoli, M. Z. Win",
+      "releaseDate": "2023-05",
+      "publisher": "IEEE Journal on Selected Areas in Communications (JSAC)",
+      "url": "https://doi.org/10.1109/JSAC.2023.3273769",
+      "summary": ""
     },
     {
-        "name": "A Traffic Model Based Approach to Parameter Server Design in Federated Learning Processes",
-        "authors": "B. Camajori Tedeschini, S. Savazzi, M. Nicoli",
-        "releaseDate": "2023-05",
-        "publisher": "IEEE Communications Letters (COMML)",
-        "url": "https://doi.org/10.1109/LCOMM.2023.3272844",
-        "summary": ""
+      "name": "A Traffic Model Based Approach to Parameter Server Design in Federated Learning Processes",
+      "authors": "B. Camajori Tedeschini, S. Savazzi, M. Nicoli",
+      "releaseDate": "2023-05",
+      "publisher": "IEEE Communications Letters (COMML)",
+      "url": "https://doi.org/10.1109/LCOMM.2023.3272844",
+      "summary": ""
     },
     {
-        "name": "Addressing Data Association by Message Passing over Graph Neural Networks",
-        "authors": "B. Camajori Tedeschini, M. Brambilla, L. Barbieri, M. Nicoli",
-        "releaseDate": "2022-07",
-        "publisher": "25th IEEE International Conference on Information Fusion (FUSION)",
-        "url": "https://doi.org/10.23919/FUSION49751.2022.9841233",
-        "summary": ""
+      "name": "Addressing Data Association by Message Passing over Graph Neural Networks",
+      "authors": "B. Camajori Tedeschini, M. Brambilla, L. Barbieri, M. Nicoli",
+      "releaseDate": "2022-07",
+      "publisher": "25th IEEE International Conference on Information Fusion (FUSION)",
+      "url": "https://doi.org/10.23919/FUSION49751.2022.9841233",
+      "summary": ""
     },
     {
-        "name": "Decentralized Federated Learning for Healthcare Networks: A Case Study on Tumor Segmentation",
-        "authors": "B. Camajori Tedeschini, S. Savazzi, R. Stoklasa, L. Barbieri, et al.",
-        "releaseDate": "2022-01",
-        "publisher": "IEEE Access",
-        "url": "https://doi.org/10.1109/ACCESS.2022.3141913",
-        "summary": ""
+      "name": "Decentralized Federated Learning for Healthcare Networks: A Case Study on Tumor Segmentation",
+      "authors": "B. Camajori Tedeschini, S. Savazzi, R. Stoklasa, L. Barbieri, et al.",
+      "releaseDate": "2022-01",
+      "publisher": "IEEE Access",
+      "url": "https://doi.org/10.1109/ACCESS.2022.3141913",
+      "summary": ""
     }
   ],
   "skills": [
-      {
-        "name": "Soft Skills",
-        "level": "Master",
-        "icon": "",
-        "keywords": [
-          "Problem Solving",
-          "Team Working",
-          "Leadership",
-          "Curiosity and Innovation",
-          "Organization and Planning"
-        ]
-      },
-      {
-        "name": "Technical Skills",
-        "level": "Master",
-        "icon": "",
-        "keywords": [
-          "Programming Languages: Python (Advanced), Matlab (Advanced), C/C++ (Beginner)",
-          "Deep Learning Frameworks: PyTorch, TensorFlow, Keras",
-          "SDKs: Visual Studio Code, Eclipse, git",
-          "Operating Systems: Mac OS, Windows, Linux",
-          "Database Tools: MySQL",
-          "Text Processing: Word, PowerPoint"
-        ]
-      }
+    {
+      "name": "Soft Skills",
+      "level": "Master",
+      "icon": "",
+      "keywords": ["Problem Solving", "Team Working", "Leadership", "Curiosity and Innovation", "Organization and Planning"]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Master",
+      "icon": "",
+      "keywords": [
+        "Programming Languages: Python (Advanced), Matlab (Advanced), C/C++ (Beginner)",
+        "Deep Learning Frameworks: PyTorch, TensorFlow, Keras",
+        "SDKs: Visual Studio Code, Eclipse, git",
+        "Operating Systems: Mac OS, Windows, Linux",
+        "Database Tools: MySQL",
+        "Text Processing: Word, PowerPoint"
+      ]
+    }
   ],
   "languages": [
     {
@@ -403,36 +399,30 @@
     }
   ],
   "interests": [
-      {
-        "name": "",
-        "icon": "",
-        "keywords": [
-          "Machine Learning",
-          "Localization",
-          "Vehicles",
-          "Data Mining",
-          "Wireless Communications"
-        ]
-      }
+    {
+      "name": "",
+      "icon": "",
+      "keywords": ["Machine Learning", "Localization", "Vehicles", "Data Mining", "Wireless Communications"]
+    }
   ],
   "references": [
-      {
-        "name": "Professor Monica Barbara Nicoli",
-        "icon": "fa-solid fa-thumbtack",
-        "reference": "Associate Professor at Polimi, Milan, Italy. Email: monica.nicoli@polimi.it"
-      },
-      {
-        "name": "Professor Luigi Serio",
-        "icon": "fa-solid fa-thumbtack",
-        "reference": "High-ranking official at CERN, Geneva, Switzerland. Email: luigi.serio@cern.ch"
-      },
-      {
-        "name": "Professor Moe Z. Win",
-        "icon": "fa-solid fa-thumbtack",
-        "reference": "Core faculty Professor at MIT, Cambridge, MA, USA. Email: moewin@mit.edu"
-      }
-    ],
-"projects": [
+    {
+      "name": "Professor Monica Barbara Nicoli",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Associate Professor at Polimi, Milan, Italy. Email: monica.nicoli@polimi.it"
+    },
+    {
+      "name": "Professor Luigi Serio",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "High-ranking official at CERN, Geneva, Switzerland. Email: luigi.serio@cern.ch"
+    },
+    {
+      "name": "Professor Moe Z. Win",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Core faculty Professor at MIT, Cambridge, MA, USA. Email: moewin@mit.edu"
+    }
+  ],
+  "projects": [
     {
       "name": "TRUSTroke",
       "startDate": "2022",

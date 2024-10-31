@@ -31,11 +31,11 @@
             <p class="ml-1 ml-md-4 technologies">
               <strong>Technologies:</strong>
               {% for tech in content.technologies %}
-                {{ tech }}{% unless forloop.last %}, {% endunless %}
+                {{ tech -}}
+                {%- unless forloop.last %}, {% endunless %}
               {% endfor %}
             </p>
           {% endif %}
-
         </div>
       </div>
     </li>

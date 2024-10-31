@@ -7,6 +7,7 @@ permalink: /impressum/
 ## Impressum
 
 This website is maintained by:
+
 - **Name**: Bernardo Camajori Tedeschini
 - **Email**: bernicama@gmail.com
 - **Address**: 20138, Milan, Italy

@@ -40,12 +40,10 @@
           </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
-          
-            {% if content.score %}
-                <p class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                <strong>Score:</strong> {{ content.score }}
-                </p>
-            {% endif %}
+
+          {% if content.score %}
+            <p class="ml-1 ml-md-4" style="font-size: 0.95rem"><strong>Score:</strong> {{ content.score }}</p>
+          {% endif %}
 
           <ul class="items">
             {% for item in content.courses %}

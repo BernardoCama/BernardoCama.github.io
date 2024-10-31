@@ -4,20 +4,20 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Bernardo
-middle_name: 
+middle_name:
 last_name: Camajori Tedeschini
 email: bernicama@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: > 
+footer_text: >
 keywords: # jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-# footer_text: > 
-  # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/BernardoCama/al-folio">al-folio</a> theme.
-  # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+# footer_text: >
+# Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/BernardoCama/al-folio">al-folio</a> theme.
+# Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+# Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url: https://BernardoCama.github.io # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -57,7 +57,6 @@ bib_search: true
 search_include_posts: false # Set to true if you want posts to be included in search results
 search_include_news: false # Set to true if you want news to be included in search results
 search_include_projects: false # Set to true if you want projects to be included in search results
-
 
 # Dimensions
 max_width: 930px

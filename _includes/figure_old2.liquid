@@ -2,7 +2,11 @@
 {% assign parts = include.path | split: '.' %}
 {% assign ext = parts.last %}
 
-<figure {% if include.slot %} slot="{{ include.slot }}" {% endif %}>
+<figure
+  {% if include.slot %}
+    slot="{{ include.slot }}"
+  {% endif %}
+>
   <img
     src="{{ include.path | relative_url }}"
     {% if include.class %}
