@@ -1,0 +1,32 @@
+{% assign img_path = include.path | remove: '.jpg' | remove: '.jpeg' | remove: '.png' | remove: '.tiff' | remove: '.gif' %}
+{% assign parts = include.path | split: '.' %}
+{% assign ext = parts.last %}
+
+<figure {% if include.slot %} slot="{{ include.slot }}" {% endif %}>
+  <img
+    src="{{ include.path | relative_url }}"
+    {% if include.class %}
+      class="{{ include.class }}"
+    {% endif %}
+    style="max-width: 130px; height: auto;"
+    {% if include.alt %}
+      alt="{{ include.alt }}"
+    {% endif %}
+    {% if include.title %}
+      title="{{ include.title }}"
+    {% endif %}
+    {% if include.zoomable %}
+      data-zoomable
+      data-zoom-src="{{ include.path | relative_url }}"
+    {% endif %}
+    {% if include.loading %}
+      loading="{{ include.loading }}"
+    {% elsif site.lazy_loading_images %}
+      loading="lazy"
+    {% endif %}
+    onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+  >
+  {% if include.caption %}
+    <figcaption class="caption">{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>

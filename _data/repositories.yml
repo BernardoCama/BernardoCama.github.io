@@ -1,14 +1,20 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - BernardoCama
+  # - alshedivat
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3 # change this to update the description of the github repo
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - BernardoCama/BERT-Hangman-project
+  - BernardoCama/Distributed-LSTM-MPNN
+  - BernardoCama/ICP-MAPPO-CooperativePositioning
+  - BernardoCama/RealTime-BNN-6G-Tracking
+  - BernardoCama/5G-DeepLearning-CooperativePositioning
+  - BernardoCama/DataAssociation-MPNN
+  - BernardoCama/ICP-MPNN
+  - BernardoCama/FL_MQTT
+  - BernardoCama/WirelessCommunicationProject
+  - BernardoCama/Advanced-cybersecurity-topics-presentation
+  - BernardoCama/project-7
+  - BernardoCama/Traffic-Theory-project
+  - BernardoCama/Localization-Navigation-and-Smart-Mobility-Project

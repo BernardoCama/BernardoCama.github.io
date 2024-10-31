@@ -25,6 +25,17 @@
               </li>
             {% endfor %}
           </ul>
+
+          <!-- Technologies Section -->
+          {% if content.technologies %}
+            <p class="ml-1 ml-md-4 technologies">
+              <strong>Technologies:</strong>
+              {% for tech in content.technologies %}
+                {{ tech }}{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </p>
+          {% endif %}
+
         </div>
       </div>
     </li>
