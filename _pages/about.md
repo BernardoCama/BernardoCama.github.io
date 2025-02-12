@@ -10,9 +10,9 @@ profile:
   align: right
   image: Camajori_Tedeschini_photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Via Giuseppe Ponzio, 34</p>
-    <p>20133, Milan, Italy</p>
+  more_info: #>
+    #<p>Via Giuseppe Ponzio, 34</p>
+    #<p>20133, Milan, Italy</p>
 
 # <p>555 your office number</p>
 

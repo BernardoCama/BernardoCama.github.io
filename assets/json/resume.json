@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Bernardo Camajori Tedeschini",
-    "label": "Research Scientist",
+    // "label": "Research Scientist",
     "image": "",
     "email": "bernicama@gmail.com",
     "phone": "+39 (339) 250-7623",
@@ -23,6 +23,15 @@
     ]
   },
   "work": [
+    {
+        "name": "Qualcomm Technologies Inc.",
+        "position": "Senior Systems Engineer",
+        "url": "https://www.qualcomm.com/research",
+        "startDate": "2025-02-01",
+        "endDate": "Today",
+        "summary": "Wireless R&D in 6G NTN.",
+        "highlights": []
+      },
     {
       "name": "Massachusetts Institute of Technology",
       "position": "Visiting Researcher",
