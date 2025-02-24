@@ -146,7 +146,13 @@
   ],
   "certificates": [
     {
-      "name": "Professional Engineering Licence",
+        "name": "Qualcomm Technologies 5G Associate-Level Certification",
+        "date": "2025&nbsp;-&nbsp;02",
+        "issuer": "Qualcomm Technologies Inc.",
+        "icon": "fa-solid fa-certificate"
+      },
+    {
+      "name": "Professional Engineering License",
       "date": "2022&nbsp;-&nbsp;10",
       "issuer": "Italian Ministry of Education",
       "icon": "fa-solid fa-briefcase"
@@ -161,7 +167,7 @@
       "name": "TOEFL",
       "date": "2021&nbsp;-&nbsp;11",
       "issuer": "ETS",
-      "icon": "fa-solid fa-globe"
+      "icon": "fa-solid fa-language"
     },
     {
       "name": "RTF Certificate (VHF)",
@@ -179,13 +185,13 @@
       "name": "ETS - TOEIC (Test of English for International Communication)",
       "date": "2018&nbsp;-&nbsp;09",
       "issuer": "ETS",
-      "icon": "fa-solid fa-comments"
+      "icon": "fa-solid fa-language"
     },
     {
       "name": "Certificate in ESOL International (First)",
       "date": "2015&nbsp;-&nbsp;05",
       "issuer": "Cambridge Assessment English",
-      "icon": "fa-solid fa-certificate"
+      "icon": "fa-solid fa-language"
     }
   ],
   "publications": [
