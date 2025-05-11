@@ -13,6 +13,12 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+{% if site.data.citations.metadata.last_updated %}
+<p class="text-muted mt-3 small">
+  <i class="fas fa-sync-alt mr-1"></i> Citation counts last updated: {{ site.data.citations.metadata.last_updated }}
+</p>
+{% endif %}
+
 <div class="publications">
 
 {% bibliography %}
