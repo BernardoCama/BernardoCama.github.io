@@ -248,6 +248,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  activesupport
   classifier-reborn
   css_parser
   feedjira
@@ -269,6 +270,7 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  nokogiri
   unicode_utils
   webrick
 
