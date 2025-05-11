@@ -1,6 +1,6 @@
 require "active_support/all"
-require 'nokogiri'
-require 'open-uri'
+require 'json'
+require 'open3'
 
 module Helpers
   extend ActiveSupport::NumberHelper
@@ -20,7 +20,6 @@ module Jekyll
     def render(context)
       article_id = context[@article_id.strip] || @article_id.strip
       scholar_id = context[@scholar_id.strip] || @scholar_id.strip
-      article_url = "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=#{scholar_id}&citation_for_view=#{scholar_id}:#{article_id}"
 
       begin
         # If the citation count has already been fetched, return it
@@ -28,41 +27,21 @@ module Jekyll
           return GoogleScholarCitationsTag::Citations[article_id]
         end
 
-        # Sleep for a random amount of time to avoid being blocked
-        sleep(rand(0.5..1.5))
-
-        # Fetch the article page
-        doc = Nokogiri::HTML(URI.open(article_url, "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"))
-
-        # Attempt to extract the "Cited by n" string from the meta tags
-        citation_count = 0
-
-        # Look for meta tags with "name" attribute set to "description"
-        description_meta = doc.css('meta[name="description"]')
-        og_description_meta = doc.css('meta[property="og:description"]')
-
-        if !description_meta.empty?
-          cited_by_text = description_meta[0]['content']
-          matches = cited_by_text.match(/Cited by (\d+[,\d]*)/)
-
-          if matches
-            citation_count = matches[1].gsub(",", "").to_i
-          end
-        elsif !og_description_meta.empty?
-          cited_by_text = og_description_meta[0]['content']
-          matches = cited_by_text.match(/Cited by (\d+[,\d]*)/)
-
-          if matches
-            citation_count = matches[1].gsub(",", "").to_i
-          end
-        end
-
-        # Try to find the citation count from the page content if not found in meta tags
-        if citation_count == 0
-          cited_by_elements = doc.css('.gsc_oci_value').select { |elem| elem.text.match(/^\d+$/) }
-          if !cited_by_elements.empty?
-            citation_count = cited_by_elements[0].text.to_i
-          end
+        # Use the shell wrapper script to run the Python script with the proper environment
+        wrapper_script_path = File.join(Dir.pwd, "bin", "run_fetch_scholar_citations.sh")
+        command = "#{wrapper_script_path} #{scholar_id} #{article_id}"
+        
+        # Execute the script
+        stdout, stderr, status = Open3.capture3(command)
+        
+        if status.success?
+          # Parse the JSON output from the script
+          result = JSON.parse(stdout)
+          citation_count = result["citations"]
+        else
+          # Log the error but continue
+          puts "Error fetching citation count: #{stderr}"
+          citation_count = 0
         end
 
         # Format the citation count for readability
