@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-05-11 14:53:43'
+  last_updated: '2025-05-17 06:34:05'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -9,20 +9,20 @@ papers:
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
-    citations: 41
+    citations: 43
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
     year: '2023'
-    citations: 23
+    citations: 24
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
-    citations: 21
+    citations: 22
   BzYoaL8AAAAJ:W7OEmFMy1HYC:
     title: Deep-learning-based radio map reconstruction for V2X communications
     year: '2023'
-    citations: 20
+    citations: 21
   BzYoaL8AAAAJ:Y0pCki6q_DkC:
     title: Cooperative deep-learning positioning in mmWave 5G-advanced networks
     year: '2023'
@@ -39,7 +39,7 @@ papers:
   BzYoaL8AAAAJ:eQOLeE2rZwMC:
     title: Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning
     year: '2024'
-    citations: 13
+    citations: 14
   BzYoaL8AAAAJ:zYLM7Y9cAGgC:
     title: Message passing neural network versus message passing algorithm for cooperative
       positioning
@@ -66,7 +66,7 @@ papers:
     title: 'Integration of 5G and GNSS Technologies for Enhanced Positioning: an Experimental
       Study'
     year: '2024'
-    citations: 3
+    citations: 4
   BzYoaL8AAAAJ:UeHWp8X0CEIC:
     title: A traffic model based approach to parameter server design in federated
       learning processes
@@ -80,7 +80,7 @@ papers:
   BzYoaL8AAAAJ:0EnyYjriUFMC:
     title: Cooperative Positioning with Multi-Agent Reinforcement Learning
     year: '2024'
-    citations: 1
+    citations: 2
   BzYoaL8AAAAJ:3fE2CSJIrl8C:
     title: Weighted Average Consensus Algorithms in Distributed and Federated Learning
     year: '2025'
@@ -97,7 +97,7 @@ papers:
     title: Multi-agent Reinforcement Learning for Distributed Cooperative Vehicular
       Positioning
     year: '2024'
-    citations: 0
+    citations: 1
   BzYoaL8AAAAJ:UebtZRa9Y70C:
     title: Empowering 6G Positioning and Tracking with Bayesian Neural Networks
     year: '2024'
