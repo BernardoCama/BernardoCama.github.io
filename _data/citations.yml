@@ -1,11 +1,19 @@
 metadata:
+<<<<<<< Updated upstream
   last_updated: '2025-05-25 01:53:23'
+=======
+  last_updated: '2025-05-25 20:47:03'
+>>>>>>> Stashed changes
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
+<<<<<<< Updated upstream
     citations: 146
+=======
+    citations: 148
+>>>>>>> Stashed changes
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
