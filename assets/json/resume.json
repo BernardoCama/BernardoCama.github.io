@@ -102,7 +102,7 @@
       "institution": "Politecnico di Milano, Milan, Italy",
       "location": "Milan, Italy",
       "url": "https://www.polimi.it",
-      "area": "Computer Science Engineeringy",
+      "area": "Computer Science Engineering",
       "studyType": "Bachelor Degree",
       "startDate": "2016-10-01",
       "endDate": "2019-07-01",
@@ -111,6 +111,13 @@
     }
   ],
   "awards": [
+    // {
+    //   "title": "Springer Award",
+    //   "date": "2025",
+    //   "awarder": "Springer",
+    //   "url": "https://link.springer.com/series/8790",
+    //   "summary": "Outstanding PhD dissertation in Information Technology, Politecnico di Milano."
+    // },
     {
       "title": "Roberto Rocca Doctoral Fellowship",
       "date": "2023",

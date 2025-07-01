@@ -1,15 +1,15 @@
 metadata:
-  last_updated: '2025-06-21 07:02:00'
+  last_updated: '2025-07-01 15:08:11'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
-    citations: 150
+    citations: 151
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
-    citations: 50
+    citations: 51
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
@@ -44,7 +44,7 @@ papers:
     title: Message passing neural network versus message passing algorithm for cooperative
       positioning
     year: '2023'
-    citations: 13
+    citations: 14
   BzYoaL8AAAAJ:qjMakFHDy7sC:
     title: Implicit vehicle positioning with cooperative lidar sensing
     year: '2023'
@@ -62,7 +62,7 @@ papers:
     title: 'Integration of 5G and GNSS Technologies for Enhanced Positioning: an Experimental
       Study'
     year: '2024'
-    citations: 5
+    citations: 8
   BzYoaL8AAAAJ:LkGwnXOMwfcC:
     title: Pedestrian positioning in urban environments with 5G technology
     year: '2024'
@@ -114,4 +114,12 @@ papers:
   BzYoaL8AAAAJ:kNdYIx-mwKoC:
     title: CYBER SECURITY
     year: Unknown Year
+    citations: 0
+  BzYoaL8AAAAJ:Zph67rFs4hoC:
+    title: Cooperative machine learning methods in distributed systems
+    year: '2024'
+    citations: 0
+  BzYoaL8AAAAJ:KlAtU1dfN6UC:
+    title: Cooperative machine learning methods in distributed systems
+    year: '2024'
     citations: 0
