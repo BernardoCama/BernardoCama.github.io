@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-08-23 20:43:18'
+  last_updated: '2025-09-03 14:49:13'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -9,7 +9,7 @@ papers:
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
-    citations: 58
+    citations: 60
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
@@ -66,7 +66,7 @@ papers:
   BzYoaL8AAAAJ:LkGwnXOMwfcC:
     title: Pedestrian positioning in urban environments with 5G technology
     year: '2024'
-    citations: 5
+    citations: 6
   BzYoaL8AAAAJ:UeHWp8X0CEIC:
     title: A traffic model based approach to parameter server design in federated
       learning processes
@@ -89,7 +89,7 @@ papers:
   BzYoaL8AAAAJ:3fE2CSJIrl8C:
     title: Weighted Average Consensus Algorithms in Distributed and Federated Learning
     year: '2025'
-    citations: 1
+    citations: 2
   BzYoaL8AAAAJ:MXK_kJrjxJIC:
     title: Sidelink-Enabled Cooperative Localization for xG Non-Terrestrial Networks
     year: '2024'
