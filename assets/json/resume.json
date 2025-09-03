@@ -111,13 +111,20 @@
     }
   ],
   "awards": [
-    // {
-    //   "title": "Springer Award",
-    //   "date": "2025",
-    //   "awarder": "Springer",
-    //   "url": "https://link.springer.com/series/8790",
-    //   "summary": "Outstanding PhD dissertation in Information Technology, Politecnico di Milano."
-    // },
+    {
+      "title": "Chorafas Award",
+      "date": "2025",
+      "awarder": "Dimitris N. Chorafas Foundation",
+      "url": "https://www.weizmann.ac.il/wsos/about/dimitris-n-chorafas-prize/about-foundation-and-prize",
+      "summary": "Scientific prize for outstanding work in selected fields in the engineering sciences, medicine and the natural sciences."
+    },
+    {
+      "title": "Springer Award",
+      "date": "2025",
+      "awarder": "Springer",
+      "url": "https://link.springer.com/series/8790",
+      "summary": "Outstanding PhD dissertation in Information Technology, Politecnico di Milano."
+    },
     {
       "title": "Roberto Rocca Doctoral Fellowship",
       "date": "2023",
@@ -152,6 +159,12 @@
     }
   ],
   "certificates": [
+    {
+        "name": "PRINCE2\u00AE Foundation",
+        "date": "2025&nbsp;-&nbsp;09",
+        "issuer": "PeopleCert (PRINCE2\u00AE by AXELOS)",
+        "icon": "fa-solid fa-certificate"
+      },
     {
         "name": "Qualcomm Technologies 5G Associate-Level Certification",
         "date": "2025&nbsp;-&nbsp;02",
