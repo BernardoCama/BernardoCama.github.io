@@ -1,15 +1,27 @@
 metadata:
+<<<<<<< Updated upstream
   last_updated: '2025-09-14 01:42:11'
+=======
+  last_updated: '2025-09-24 19:37:34'
+>>>>>>> Stashed changes
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
+<<<<<<< Updated upstream
     citations: 164
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
     citations: 62
+=======
+    citations: 166
+  BzYoaL8AAAAJ:YsMSGLbcyi4C:
+    title: A tutorial on 5G positioning
+    year: '2023'
+    citations: 66
+>>>>>>> Stashed changes
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
@@ -22,7 +34,11 @@ papers:
   BzYoaL8AAAAJ:Y0pCki6q_DkC:
     title: Cooperative deep-learning positioning in mmWave 5G-advanced networks
     year: '2023'
+<<<<<<< Updated upstream
     citations: 25
+=======
+    citations: 26
+>>>>>>> Stashed changes
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
@@ -35,7 +51,11 @@ papers:
   BzYoaL8AAAAJ:eQOLeE2rZwMC:
     title: Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning
     year: '2024'
+<<<<<<< Updated upstream
     citations: 22
+=======
+    citations: 23
+>>>>>>> Stashed changes
   BzYoaL8AAAAJ:9yKSN-GCB0IC:
     title: Addressing data association by message passing over graph neural networks
     year: '2022'
@@ -62,11 +82,15 @@ papers:
     title: 'Integration of 5G and GNSS technologies for enhanced positioning: An experimental
       study'
     year: '2024'
+<<<<<<< Updated upstream
     citations: 12
+=======
+    citations: 13
+>>>>>>> Stashed changes
   BzYoaL8AAAAJ:LkGwnXOMwfcC:
     title: Pedestrian positioning in urban environments with 5G technology
     year: '2024'
-    citations: 6
+    citations: 7
   BzYoaL8AAAAJ:UeHWp8X0CEIC:
     title: A traffic model based approach to parameter server design in federated
       learning processes
