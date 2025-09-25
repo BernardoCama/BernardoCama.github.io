@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-# V3
+<!-- # V3 -->
 Bernardo Camajori Tedeschini (Member, IEEE) received the B.Sc. (Hons.) degree in Computer Science Engineering, the M.Sc. (Hons.) degree in Telecommunications Engineering, and the Ph.D. (Hons.) degree in Information Technology from the Politecnico di Milano, in 2019, 2021, and 2024, respectively.
 
 He served as a Visiting Ph.D. Researcher at the Wireless Information and Network Sciences Laboratory, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA, in 2023 and 2024. In 2021, he was a Visiting Research Scientist at CERN, Geneva, Switzerland, where he worked on the CAFEIN project, focusing on the development and deployment of a federated network platform.
