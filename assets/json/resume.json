@@ -468,6 +468,11 @@
       "name": "Professor Moe Z. Win",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Core faculty Professor at MIT, Cambridge, MA, USA. Email: moewin@mit.edu"
+    },
+    {
+      "name": "Dr. Amira Alloum",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Director of Engineering at Qualcomm, Paris, France. Email: aalloum@qti.qualcomm.com"
     }
   ],
   "projects": [
