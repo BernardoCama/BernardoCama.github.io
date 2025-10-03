@@ -173,6 +173,12 @@
   ],
   "certificates": [
     {
+        "name": "PRINCE2\u00AE Practitioner",
+        "date": "2025&nbsp;-&nbsp;10",
+        "issuer": "PeopleCert (PRINCE2\u00AE by AXELOS)",
+        "icon": "fa-solid fa-certificate"
+      },
+    {
         "name": "PRINCE2\u00AE Foundation",
         "date": "2025&nbsp;-&nbsp;09",
         "issuer": "PeopleCert (PRINCE2\u00AE by AXELOS)",
@@ -443,6 +449,11 @@
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
