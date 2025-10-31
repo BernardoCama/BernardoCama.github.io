@@ -1,0 +1,32 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% assign patents = data[1] %}
+  {% for content in patents %}
+    <li class="list-group-item">
+      <div class="ml-1 ml-md-4">
+        {% if content.filingDate %}
+          <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mb-2" style="min-width: 75px">
+            {{ content.filingDate | replace: '-', '.' }}
+          </span>
+        {% endif %}
+        {% assign title = content.title | default: content.name %}
+        {% if title %}
+          <h6 class="title font-weight-bold">
+            {% if content.url %}
+              <a href="{{ content.url }}">{{ title }}</a>
+            {% else %}
+              {{ title }}
+            {% endif %}
+          </h6>
+        {% endif %}
+        {% if content.status %}
+          <h6 class="mb-1" style="font-size: 0.95rem">{{ content.status }}</h6>
+        {% endif %}
+        {% if content.summary %}
+          <p class="mb-0" style="font-size: 0.95rem">{{ content.summary }}</p>
+        {% elsif content.description %}
+          <p class="mb-0" style="font-size: 0.95rem">{{ content.description }}</p>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>

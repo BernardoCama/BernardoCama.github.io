@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2025-10-18 16:22:52'
+  last_updated: '2025-10-31 20:13:05'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
-    citations: 173
+    citations: 176
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
@@ -13,7 +13,7 @@ papers:
   BzYoaL8AAAAJ:Y0pCki6q_DkC:
     title: Cooperative deep-learning positioning in mmWave 5G-advanced networks
     year: '2023'
-    citations: 26
+    citations: 27
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
@@ -27,15 +27,15 @@ papers:
   BzYoaL8AAAAJ:W7OEmFMy1HYC:
     title: Deep-learning-based radio map reconstruction for V2X communications
     year: '2023'
-    citations: 27
+    citations: 29
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
-    citations: 29
+    citations: 30
   BzYoaL8AAAAJ:eQOLeE2rZwMC:
     title: Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning
     year: '2024'
-    citations: 25
+    citations: 26
   BzYoaL8AAAAJ:zYLM7Y9cAGgC:
     title: Message passing neural network versus message passing algorithm for cooperative
       positioning
@@ -49,7 +49,7 @@ papers:
     title: 'Integration of 5G and GNSS technologies for enhanced positioning: An experimental
       study'
     year: '2024'
-    citations: 16
+    citations: 17
   BzYoaL8AAAAJ:roLk4NBRz8UC:
     title: Real-time Bayesian neural networks for 6G cooperative positioning and tracking
     year: '2024'
@@ -62,7 +62,7 @@ papers:
     title: On the impact of data heterogeneity in federated learning environments
       with application to healthcare networks
     year: '2024'
-    citations: 11
+    citations: 12
   BzYoaL8AAAAJ:LkGwnXOMwfcC:
     title: Pedestrian positioning in urban environments with 5G technology
     year: '2024'
@@ -80,7 +80,7 @@ papers:
     title: 'Split consensus federated learning: An approach for distributed training
       and inference'
     year: '2024'
-    citations: 4
+    citations: 5
   BzYoaL8AAAAJ:0EnyYjriUFMC:
     title: Cooperative Positioning with Multi-Agent Reinforcement Learning
     year: '2024'
