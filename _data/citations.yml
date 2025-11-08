@@ -1,15 +1,15 @@
 metadata:
-  last_updated: '2025-10-31 20:13:05'
+  last_updated: '2025-11-08 10:06:15'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
-    citations: 176
+    citations: 178
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
-    citations: 75
+    citations: 77
   BzYoaL8AAAAJ:Y0pCki6q_DkC:
     title: Cooperative deep-learning positioning in mmWave 5G-advanced networks
     year: '2023'
@@ -49,11 +49,11 @@ papers:
     title: 'Integration of 5G and GNSS technologies for enhanced positioning: An experimental
       study'
     year: '2024'
-    citations: 17
+    citations: 18
   BzYoaL8AAAAJ:roLk4NBRz8UC:
     title: Real-time Bayesian neural networks for 6G cooperative positioning and tracking
     year: '2024'
-    citations: 13
+    citations: 14
   BzYoaL8AAAAJ:qjMakFHDy7sC:
     title: Implicit vehicle positioning with cooperative lidar sensing
     year: '2023'
@@ -62,7 +62,7 @@ papers:
     title: On the impact of data heterogeneity in federated learning environments
       with application to healthcare networks
     year: '2024'
-    citations: 12
+    citations: 13
   BzYoaL8AAAAJ:LkGwnXOMwfcC:
     title: Pedestrian positioning in urban environments with 5G technology
     year: '2024'

@@ -493,6 +493,19 @@
   ],
   "projects": [
     {
+      "name": "6G-NTN",
+      "startDate": "2023",
+      "endDate": "2025",
+      "url": "https://6g-ntn.eu",
+      "summary": "EU SNS JU (Horizon Europe) RIA to design and validate technical, regulatory, and standardisation enablers for full integration of non-terrestrial networks with terrestrial 6G.",
+      "highlights": [
+        "Partners: University of Bologna, Thales Alenia Space, Thales SIX, Ericsson, Orange, SES Techcom, DLR, CTTC, Qualcomm, and others.",
+        "Budget: 5.1M €. Call: HORIZON-JU-SNS-2022-STREAM-B-01-03 (SNS JU Stream B, RIA; GA No. 101096479).",
+        "Contribution: GNSS-independent positioning, AI-enhanced RAN Intelligent Controller (RIC), pre-standardisation support."
+      ],
+    "technologies": ["Pytorch", "Matlab", "vLEO/GEO/HAPS/UAV", "Direct-to-device (D2D)"]
+    },
+    {
       "name": "TRUSTroke",
       "startDate": "2022",
       "endDate": "2025",
