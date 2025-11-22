@@ -9,6 +9,13 @@ module ExternalPosts
     safe true
     priority :high
 
+    DEFAULT_REQUEST_OPTIONS = {
+      headers: {
+        'User-Agent' => 'ExternalPostsFetcher/1.0'
+      },
+      timeout: 10
+    }.freeze
+
     def generate(site)
       if site.config['external_sources'] != nil
         site.config['external_sources'].each do |src|
@@ -23,10 +30,32 @@ module ExternalPosts
     end
 
     def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
-      return if xml.nil?
-      feed = Feedjira.parse(xml)
+      response = HTTParty.get(src['rss_url'], DEFAULT_REQUEST_OPTIONS)
+
+      unless response_ok?(response)
+        log_warning(site, src, "Request failed with status #{response.code}")
+        return
+      end
+
+      xml = response.body
+      if xml.nil? || xml.strip.empty?
+        log_warning(site, src, 'Feed response was empty')
+        return
+      end
+
+      begin
+        feed = Feedjira.parse(xml)
+      rescue Feedjira::NoParserAvailable => e
+        log_warning(site, src, "Feedjira could not parse the feed: #{e.message}")
+        return
+      rescue StandardError => e
+        log_warning(site, src, "Unexpected error parsing feed: #{e.class} - #{e.message}")
+        return
+      end
+
       process_entries(site, src, feed.entries)
+    rescue StandardError => e
+      log_warning(site, src, "Failed to fetch RSS feed: #{e.class} - #{e.message}")
     end
 
     def process_entries(site, src, entries)
@@ -69,8 +98,12 @@ module ExternalPosts
       src['posts'].each do |post|
         puts "...fetching #{post['url']}"
         content = fetch_content_from_url(post['url'])
+        next if content.nil?
+
         content[:published] = parse_published_date(post['published_date'])
         create_document(site, src['name'], post['url'], content)
+      rescue StandardError => e
+        log_warning(site, src, "Failed to fetch #{post['url']}: #{e.class} - #{e.message}")
       end
     end
 
@@ -86,7 +119,11 @@ module ExternalPosts
     end
 
     def fetch_content_from_url(url)
-      html = HTTParty.get(url).body
+      response = HTTParty.get(url, DEFAULT_REQUEST_OPTIONS)
+
+      return nil unless response_ok?(response)
+
+      html = response.body
       parsed_html = Nokogiri::HTML(html)
 
       title = parsed_html.at('head title')&.text.strip || ''
@@ -99,6 +136,16 @@ module ExternalPosts
         summary: description
         # Note: The published date is now added in the fetch_from_urls method.
       }
+    end
+
+    private
+
+    def response_ok?(response)
+      response.respond_to?(:success?) && response.success?
+    end
+
+    def log_warning(site, src, message)
+      Jekyll.logger.warn('ExternalPosts', "#{src['name']}: #{message}")
     end
 
   end
