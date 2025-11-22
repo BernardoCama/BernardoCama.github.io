@@ -24,14 +24,14 @@
   },
   "work": [
     {
-        "name": "Qualcomm Technologies Inc.",
-        "position": "Senior Systems Engineer",
-        "url": "https://www.qualcomm.com/research",
-        "startDate": "2025-02-01",
-        "endDate": "Today",
-        "summary": "Wireless R&D in 6G NTN.",
-        "highlights": []
-      },
+      "name": "Qualcomm Technologies Inc.",
+      "position": "Senior Systems Engineer",
+      "url": "https://www.qualcomm.com/research",
+      "startDate": "2025-02-01",
+      "endDate": "Today",
+      "summary": "Wireless R&D in 6G NTN.",
+      "highlights": []
+    },
     {
       "name": "Massachusetts Institute of Technology",
       "position": "Visiting Researcher",
@@ -173,23 +173,23 @@
   ],
   "certificates": [
     {
-        "name": "PRINCE2\u00AE Practitioner",
-        "date": "2025&nbsp;-&nbsp;10",
-        "issuer": "PeopleCert (PRINCE2\u00AE by AXELOS)",
-        "icon": "fa-solid fa-certificate"
-      },
+      "name": "PRINCE2\u00AE Practitioner",
+      "date": "2025&nbsp;-&nbsp;10",
+      "issuer": "PeopleCert (PRINCE2\u00AE by AXELOS)",
+      "icon": "fa-solid fa-certificate"
+    },
     {
-        "name": "PRINCE2\u00AE Foundation",
-        "date": "2025&nbsp;-&nbsp;09",
-        "issuer": "PeopleCert (PRINCE2\u00AE by AXELOS)",
-        "icon": "fa-solid fa-certificate"
-      },
+      "name": "PRINCE2\u00AE Foundation",
+      "date": "2025&nbsp;-&nbsp;09",
+      "issuer": "PeopleCert (PRINCE2\u00AE by AXELOS)",
+      "icon": "fa-solid fa-certificate"
+    },
     {
-        "name": "Qualcomm Technologies 5G Associate-Level Certification",
-        "date": "2025&nbsp;-&nbsp;02",
-        "issuer": "Qualcomm Technologies Inc.",
-        "icon": "fa-solid fa-certificate"
-      },
+      "name": "Qualcomm Technologies 5G Associate-Level Certification",
+      "date": "2025&nbsp;-&nbsp;02",
+      "issuer": "Qualcomm Technologies Inc.",
+      "icon": "fa-solid fa-certificate"
+    },
     {
       "name": "Professional Engineering License",
       "date": "2022&nbsp;-&nbsp;10",
@@ -503,7 +503,7 @@
         "Budget: 5.1M €. Call: HORIZON-JU-SNS-2022-STREAM-B-01-03 (SNS JU Stream B, RIA; GA No. 101096479).",
         "Contribution: GNSS-independent positioning, AI-enhanced RAN Intelligent Controller (RIC), pre-standardisation support."
       ],
-    "technologies": ["Pytorch", "Matlab", "vLEO/GEO/HAPS/UAV", "Direct-to-device (D2D)"]
+      "technologies": ["Pytorch", "Matlab", "vLEO/GEO/HAPS/UAV", "Direct-to-device (D2D)"]
     },
     {
       "name": "TRUSTroke",

@@ -315,9 +315,9 @@
               role="button"
             >
               {% assign citation_count = 0 %}
-              {% assign scholar_id_key = site.scholar_userid | append: ":" | append: entry.google_scholar_id %}
+              {% assign scholar_id_key = site.scholar_userid | append: ':' | append: entry.google_scholar_id %}
               {% assign publication_key = entry.google_scholar_id %}
-              
+
               {% if site.data.citations.papers[scholar_id_key] %}
                 {% assign citation_count = site.data.citations.papers[scholar_id_key].citations %}
               {% elsif site.data.citations.papers[publication_key] %}
@@ -331,7 +331,7 @@
                   {% endif %}
                 {% endfor %}
               {% endif %}
-              
+
               <img
                 src="https://img.shields.io/badge/scholar-{{ citation_count }}-4285F4?logo=googlescholar&labelColor=beige"
                 alt="{{ citation_count }} Google Scholar citations"
