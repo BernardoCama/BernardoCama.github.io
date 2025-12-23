@@ -1,5 +1,9 @@
 metadata:
+<<<<<<< Updated upstream
   last_updated: '2025-12-21 01:57:32'
+=======
+  last_updated: '2025-12-23 06:59:50'
+>>>>>>> Stashed changes
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
