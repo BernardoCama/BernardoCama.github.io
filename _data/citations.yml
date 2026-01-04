@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-23 07:10:12'
+  last_updated: '2026-01-04 02:04:49'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -13,7 +13,7 @@ papers:
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
-    citations: 32
+    citations: 33
   BzYoaL8AAAAJ:W7OEmFMy1HYC:
     title: Deep-learning-based radio map reconstruction for V2X communications
     year: '2023'
@@ -25,7 +25,7 @@ papers:
   BzYoaL8AAAAJ:eQOLeE2rZwMC:
     title: Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning
     year: '2024'
-    citations: 28
+    citations: 29
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
@@ -50,7 +50,7 @@ papers:
     title: On the impact of data heterogeneity in federated learning environments
       with application to healthcare networks
     year: '2024'
-    citations: 16
+    citations: 15
   BzYoaL8AAAAJ:9yKSN-GCB0IC:
     title: Addressing data association by message passing over graph neural networks
     year: '2022'
@@ -58,7 +58,7 @@ papers:
   BzYoaL8AAAAJ:roLk4NBRz8UC:
     title: Real-time Bayesian neural networks for 6G cooperative positioning and tracking
     year: '2024'
-    citations: 14
+    citations: 15
   BzYoaL8AAAAJ:qjMakFHDy7sC:
     title: Implicit vehicle positioning with cooperative lidar sensing
     year: '2023'
@@ -93,7 +93,7 @@ papers:
   BzYoaL8AAAAJ:UebtZRa9Y70C:
     title: Empowering 6G Positioning and Tracking with Bayesian Neural Networks
     year: '2024'
-    citations: 2
+    citations: 3
   BzYoaL8AAAAJ:MXK_kJrjxJIC:
     title: Sidelink-Enabled Cooperative Localization for xG Non-Terrestrial Networks
     year: '2024'
