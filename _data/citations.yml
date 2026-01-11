@@ -1,15 +1,19 @@
 metadata:
+<<<<<<< Updated upstream
   last_updated: '2026-01-04 02:04:49'
+=======
+  last_updated: '2026-01-11 12:17:12'
+>>>>>>> Stashed changes
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
-    citations: 184
+    citations: 185
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
-    citations: 82
+    citations: 83
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
@@ -25,7 +29,11 @@ papers:
   BzYoaL8AAAAJ:eQOLeE2rZwMC:
     title: Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning
     year: '2024'
+<<<<<<< Updated upstream
     citations: 29
+=======
+    citations: 30
+>>>>>>> Stashed changes
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
@@ -71,7 +79,7 @@ papers:
     title: 'Split consensus federated learning: An approach for distributed training
       and inference'
     year: '2024'
-    citations: 5
+    citations: 6
   BzYoaL8AAAAJ:UeHWp8X0CEIC:
     title: A traffic model based approach to parameter server design in federated
       learning processes
