@@ -1,123 +1,123 @@
 metadata:
-  last_updated: '2026-02-06 14:08:08'
+  last_updated: "2026-02-06 14:08:08"
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
-    title: 'Decentralized federated learning for healthcare networks: A case study
-      on tumor segmentation'
-    year: '2022'
+    title: "Decentralized federated learning for healthcare networks: A case study
+      on tumor segmentation"
+    year: "2022"
     citations: 191
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
-    year: '2023'
+    year: "2023"
     citations: 95
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
-    year: '2023'
+    year: "2023"
     citations: 36
   BzYoaL8AAAAJ:eQOLeE2rZwMC:
     title: Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning
-    year: '2024'
+    year: "2024"
     citations: 31
   BzYoaL8AAAAJ:W7OEmFMy1HYC:
     title: Deep-learning-based radio map reconstruction for V2X communications
-    year: '2023'
+    year: "2023"
     citations: 31
   BzYoaL8AAAAJ:Y0pCki6q_DkC:
     title: Cooperative deep-learning positioning in mmWave 5G-advanced networks
-    year: '2023'
+    year: "2023"
     citations: 33
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
-    title: 'Cooperative lidar sensing for pedestrian detection: Data association based
-      on message passing neural networks'
-    year: '2023'
+    title: "Cooperative lidar sensing for pedestrian detection: Data association based
+      on message passing neural networks"
+    year: "2023"
     citations: 27
   BzYoaL8AAAAJ:2osOgNQ5qMEC:
     title: On the latent space of mmWave MIMO channels for NLOS identification in
       5G-advanced systems
-    year: '2023'
+    year: "2023"
     citations: 31
   BzYoaL8AAAAJ:5nxA0vEk-isC:
-    title: 'Integration of 5G and GNSS technologies for enhanced positioning: An experimental
-      study'
-    year: '2024'
+    title: "Integration of 5G and GNSS technologies for enhanced positioning: An experimental
+      study"
+    year: "2024"
     citations: 26
   BzYoaL8AAAAJ:zYLM7Y9cAGgC:
     title: Message passing neural network versus message passing algorithm for cooperative
       positioning
-    year: '2023'
+    year: "2023"
     citations: 18
   BzYoaL8AAAAJ:roLk4NBRz8UC:
     title: Real-time Bayesian neural networks for 6G cooperative positioning and tracking
-    year: '2024'
+    year: "2024"
     citations: 20
   BzYoaL8AAAAJ:_FxGoFyzp5QC:
     title: On the impact of data heterogeneity in federated learning environments
       with application to healthcare networks
-    year: '2024'
+    year: "2024"
     citations: 18
   BzYoaL8AAAAJ:9yKSN-GCB0IC:
     title: Addressing data association by message passing over graph neural networks
-    year: '2022'
+    year: "2022"
     citations: 15
   BzYoaL8AAAAJ:qjMakFHDy7sC:
     title: Implicit vehicle positioning with cooperative lidar sensing
-    year: '2023'
+    year: "2023"
     citations: 12
   BzYoaL8AAAAJ:LkGwnXOMwfcC:
     title: Pedestrian positioning in urban environments with 5G technology
-    year: '2024'
+    year: "2024"
     citations: 9
   BzYoaL8AAAAJ:Se3iqnhoufwC:
-    title: 'Split consensus federated learning: An approach for distributed training
-      and inference'
-    year: '2024'
+    title: "Split consensus federated learning: An approach for distributed training
+      and inference"
+    year: "2024"
     citations: 6
   BzYoaL8AAAAJ:UeHWp8X0CEIC:
     title: A traffic model based approach to parameter server design in federated
       learning processes
-    year: '2023'
+    year: "2023"
     citations: 4
   BzYoaL8AAAAJ:UebtZRa9Y70C:
     title: Empowering 6G Positioning and Tracking with Bayesian Neural Networks
-    year: '2024'
+    year: "2024"
     citations: 4
   BzYoaL8AAAAJ:3fE2CSJIrl8C:
     title: Weighted Average Consensus Algorithms in Distributed and Federated Learning
-    year: '2025'
+    year: "2025"
     citations: 3
   BzYoaL8AAAAJ:hqOjcs7Dif8C:
     title: Multi-agent Reinforcement Learning for Distributed Cooperative Vehicular
       Positioning
-    year: '2024'
+    year: "2024"
     citations: 2
   BzYoaL8AAAAJ:0EnyYjriUFMC:
     title: Cooperative Positioning with Multi-Agent Reinforcement Learning
-    year: '2024'
+    year: "2024"
     citations: 2
   BzYoaL8AAAAJ:MXK_kJrjxJIC:
     title: Sidelink-Enabled Cooperative Localization for xG Non-Terrestrial Networks
-    year: '2024'
+    year: "2024"
     citations: 1
   BzYoaL8AAAAJ:Zph67rFs4hoC:
     title: Cooperative machine learning methods in distributed systems
-    year: '2024'
+    year: "2024"
     citations: 0
   BzYoaL8AAAAJ:8k81kl-MbHgC:
     title: Location Verification in Next-Generation Non-Terrestrial Networks
-    year: '2024'
+    year: "2024"
     citations: 0
   BzYoaL8AAAAJ:KlAtU1dfN6UC:
     title: Cooperative machine learning methods in distributed systems
-    year: '2024'
+    year: "2024"
     citations: 0
   BzYoaL8AAAAJ:WF5omc3nYNoC:
     title: Deep-Learning-Based Radio Map Reconstruction for V2X Communications
-    year: '2024'
+    year: "2024"
     citations: 0
   BzYoaL8AAAAJ:d1gkVwhDpl0C:
     title: Federated learning architectures and algorithms for diagnostic imaging
       in healthcare networks
-    year: '2020'
+    year: "2020"
     citations: 0
   BzYoaL8AAAAJ:kNdYIx-mwKoC:
     title: CYBER SECURITY
