@@ -112,6 +112,13 @@
   ],
   "awards": [
     {
+      "title": "Best PhD Theses Award",
+      "date": "2026",
+      "awarder": "IEEE Aerospace and Electronic Systems Society (AESS) Italy Chapter",
+      "url": "https://ieee-aess.org/chapters/italy-section-chapter",
+      "summary": "Award for the best PhD thesis from the IEEE AESS Italy Chapter, recognizing outstanding doctoral research in aerospace and electronic systems."
+    },
+    {
       "title": "Prof. Florian Daniel Award",
       "date": "2025",
       "awarder": "Politecnico di Milano",
