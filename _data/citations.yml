@@ -1,25 +1,10 @@
 metadata:
-<<<<<<< Updated upstream
-  last_updated: '2026-01-25 02:06:36'
-=======
   last_updated: '2026-02-06 14:08:08'
->>>>>>> Stashed changes
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
-<<<<<<< Updated upstream
-    citations: 189
-  BzYoaL8AAAAJ:YsMSGLbcyi4C:
-    title: A tutorial on 5G positioning
-    year: '2023'
-    citations: 86
-  BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
-    title: A feasibility study of 5G positioning with current cellular network deployment
-    year: '2023'
-    citations: 34
-=======
     citations: 191
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
@@ -29,7 +14,6 @@ papers:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
     citations: 36
->>>>>>> Stashed changes
   BzYoaL8AAAAJ:eQOLeE2rZwMC:
     title: Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning
     year: '2024'
@@ -41,11 +25,7 @@ papers:
   BzYoaL8AAAAJ:Y0pCki6q_DkC:
     title: Cooperative deep-learning positioning in mmWave 5G-advanced networks
     year: '2023'
-<<<<<<< Updated upstream
-    citations: 31
-=======
     citations: 33
->>>>>>> Stashed changes
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
@@ -55,20 +35,12 @@ papers:
     title: On the latent space of mmWave MIMO channels for NLOS identification in
       5G-advanced systems
     year: '2023'
-<<<<<<< Updated upstream
-    citations: 28
-=======
     citations: 31
->>>>>>> Stashed changes
   BzYoaL8AAAAJ:5nxA0vEk-isC:
     title: 'Integration of 5G and GNSS technologies for enhanced positioning: An experimental
       study'
     year: '2024'
-<<<<<<< Updated upstream
-    citations: 23
-=======
     citations: 26
->>>>>>> Stashed changes
   BzYoaL8AAAAJ:zYLM7Y9cAGgC:
     title: Message passing neural network versus message passing algorithm for cooperative
       positioning
