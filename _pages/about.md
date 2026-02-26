@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Systems Engineer at <a href='https://www.qualcomm.com/'>Qualcomm</a>. Ph.D. from <a href='https://www.deib.polimi.it/eng'>Politecnico di Milano</a>,
+subtitle:
+  Senior Systems Engineer at <a href='https://www.qualcomm.com/'>Qualcomm</a>. Ph.D. from <a href='https://www.deib.polimi.it/eng'>Politecnico di Milano</a>,
   visiting researcher at <a href='https://winslab.lids.mit.edu/'>MIT WINSLAB</a> and <a href='https://home.cern/'>CERN</a>.
 
 profile:
