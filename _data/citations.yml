@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16 07:02:03'
+  last_updated: '2026-03-17 07:02:20'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -84,7 +84,7 @@ papers:
   BzYoaL8AAAAJ:3fE2CSJIrl8C:
     title: Weighted average consensus algorithms in distributed and federated learning
     year: '2025'
-    citations: 6
+    citations: 7
   BzYoaL8AAAAJ:hqOjcs7Dif8C:
     title: Multi-agent reinforcement learning for distributed cooperative vehicular
       positioning
