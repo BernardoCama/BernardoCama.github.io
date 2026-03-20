@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-19 07:02:25'
+  last_updated: '2026-03-20 07:02:04'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -17,7 +17,7 @@ papers:
   BzYoaL8AAAAJ:eQOLeE2rZwMC:
     title: Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning
     year: '2024'
-    citations: 35
+    citations: 36
   BzYoaL8AAAAJ:W7OEmFMy1HYC:
     title: Deep-learning-based radio map reconstruction for V2X communications
     year: '2023'
@@ -71,7 +71,7 @@ papers:
     title: 'Split consensus federated learning: An approach for distributed training
       and inference'
     year: '2024'
-    citations: 7
+    citations: 8
   BzYoaL8AAAAJ:UeHWp8X0CEIC:
     title: A traffic model based approach to parameter server design in federated
       learning processes
