@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-22 07:02:16'
+  last_updated: '2026-03-23 07:01:52'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -21,7 +21,7 @@ papers:
   BzYoaL8AAAAJ:W7OEmFMy1HYC:
     title: Deep-learning-based radio map reconstruction for V2X communications
     year: '2023'
-    citations: 33
+    citations: 34
   BzYoaL8AAAAJ:Y0pCki6q_DkC:
     title: Cooperative deep-learning positioning in mmWave 5G-advanced networks
     year: '2023'
