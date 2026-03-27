@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-03-26 07:01:41'
+  last_updated: '2026-03-27 07:03:44'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
-    citations: 199
+    citations: 202
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
