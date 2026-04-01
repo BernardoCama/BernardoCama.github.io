@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-31 07:01:33'
+  last_updated: '2026-04-01 07:02:18'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -13,7 +13,7 @@ papers:
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
-    citations: 40
+    citations: 41
   BzYoaL8AAAAJ:eQOLeE2rZwMC:
     title: Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning
     year: '2024'
@@ -54,7 +54,7 @@ papers:
     title: On the impact of data heterogeneity in federated learning environments
       with application to healthcare networks
     year: '2024'
-    citations: 19
+    citations: 20
   BzYoaL8AAAAJ:9yKSN-GCB0IC:
     title: Addressing data association by message passing over graph neural networks
     year: '2022'
