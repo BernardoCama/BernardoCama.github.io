@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-02 07:02:40'
+  last_updated: '2026-04-03 07:02:09'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -80,7 +80,7 @@ papers:
   BzYoaL8AAAAJ:UebtZRa9Y70C:
     title: Empowering 6G positioning and tracking with Bayesian neural networks
     year: '2024'
-    citations: 4
+    citations: 5
   BzYoaL8AAAAJ:3fE2CSJIrl8C:
     title: Weighted average consensus algorithms in distributed and federated learning
     year: '2025'
