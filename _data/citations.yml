@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-04 07:09:26'
+  last_updated: '2026-04-05 02:44:17'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -9,7 +9,7 @@ papers:
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
-    citations: 110
+    citations: 111
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
@@ -49,7 +49,7 @@ papers:
   BzYoaL8AAAAJ:roLk4NBRz8UC:
     title: Real-time Bayesian neural networks for 6G cooperative positioning and tracking
     year: '2024'
-    citations: 23
+    citations: 24
   BzYoaL8AAAAJ:_FxGoFyzp5QC:
     title: On the impact of data heterogeneity in federated learning environments
       with application to healthcare networks
