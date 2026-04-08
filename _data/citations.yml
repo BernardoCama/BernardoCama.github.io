@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-05 07:02:26'
+  last_updated: '2026-04-08 07:00:15'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -40,7 +40,7 @@ papers:
     title: 'Integration of 5G and GNSS technologies for enhanced positioning: An experimental
       study'
     year: '2024'
-    citations: 30
+    citations: 31
   BzYoaL8AAAAJ:zYLM7Y9cAGgC:
     title: Message passing neural network versus message passing algorithm for cooperative
       positioning
