@@ -29,8 +29,8 @@
       "url": "https://www.qualcomm.com/research",
       "startDate": "2025-02-01",
       "endDate": "Today",
-      "summary": "Wireless R&D in 6G NTN.",
-      "highlights": []
+      "summary": "Wireless R&D for 6G Non-Terrestrial Networks (NTN): system design, link-level simulations, and algorithm development for next-generation positioning and communication systems.",
+      "highlights": ["GNSS-independent positioning research and AI-enhanced RAN Intelligent Controller (RIC) design.", "Filed 35+ patent applications and contributed to pre-standardisation activities aligned with 3GPP RAN working groups."]
     },
     {
       "name": "Massachusetts Institute of Technology",
@@ -443,7 +443,7 @@
       "level": "Master",
       "icon": "",
       "keywords": [
-        "Programming Languages: Python (Advanced), Matlab (Advanced), C/C++ (Beginner)",
+        "Programming Languages: Python (Advanced), MATLAB (Advanced), C/C++ (Intermediate)",
         "Deep Learning Frameworks: PyTorch, TensorFlow, Keras",
         "SDKs: Visual Studio Code, Eclipse, git",
         "Operating Systems: Mac OS, Windows, Linux",
@@ -465,7 +465,7 @@
     },
     {
       "language": "French",
-      "fluency": "Basic",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
