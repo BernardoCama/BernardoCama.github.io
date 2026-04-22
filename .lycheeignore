@@ -7,3 +7,7 @@ https://support.mozilla.org/.*
 
 # Pinterest often 429/403s CI checkers
 https://www.pinterest.com/.*
+
+# GitHub raw source files and blob deep-links rate-limit aggressively from
+# CI; they're in the al-folio template docs only.
+https://github.com/alshedivat/al-folio/blob/.*
