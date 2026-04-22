@@ -1,0 +1,9 @@
+# URLs to skip when checking for broken links.
+# Add hosts here that are known-good but frequently return transient errors
+# or block CI link checkers.
+
+# Mozilla support occasionally returns 502 Bad Gateway
+https://support.mozilla.org/.*
+
+# Pinterest often 429/403s CI checkers
+https://www.pinterest.com/.*
