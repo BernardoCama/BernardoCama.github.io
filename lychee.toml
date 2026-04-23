@@ -1,0 +1,21 @@
+# Lychee link checker configuration
+# Docs: https://lychee.cli.rs/usage/config/
+
+# Retry flaky/transient errors so a single 502/503 doesn't fail the whole run
+max_retries = 3
+retry_wait_time = 5
+
+# Wait longer before giving up on slow hosts
+timeout = 30
+
+# Accept 2xx and 3xx, plus common "soft-block" codes that are not real broken links:
+#   429 — rate limit (not a broken link)
+#   500, 502, 503, 504 — transient server errors (not a broken link)
+#   403 — bot protection on some hosts (Cloudflare, Pinterest, etc.)
+accept = ["200..=299", "301", "302", "303", "307", "308", "403", "429", "500", "502", "503", "504"]
+
+# Pretend to be a normal browser — many hosts 403 unknown UAs
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+# Follow redirects
+max_redirects = 10
