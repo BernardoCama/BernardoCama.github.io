@@ -1,6 +1,7 @@
 name: Check for broken links
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
@@ -12,6 +13,8 @@ on:
       - "**.liquid"
       - "**/*.md"
       - "**.yml"
+      - "lychee.toml"
+      - ".lycheeignore"
       - "!.github/workflows/axe.yml"
       - "!.github/workflows/deploy-docker-tag.yml"
       - "!.github/workflows/deploy-image.yml"
@@ -30,6 +33,8 @@ on:
       - "**.liquid"
       - "**/*.md"
       - "**.yml"
+      - "lychee.toml"
+      - ".lycheeignore"
       - "!.github/workflows/axe.yml"
       - "!.github/workflows/deploy-docker-tag.yml"
       - "!.github/workflows/deploy-image.yml"
@@ -48,5 +53,7 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
+          # Config (retries, accepted status codes, UA) in lychee.toml
+          # Ignored URLs in .lycheeignore
           # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude 'https://unsplash.com' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: --config lychee.toml --exclude 'https://unsplash.com' --exclude-path README.md --exclude-path FAQ.md --exclude-path INSTALL.md --exclude-path CUSTOMIZE.md --exclude-path CONTRIBUTING.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
