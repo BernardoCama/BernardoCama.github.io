@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27 07:00:12'
+  last_updated: '2026-04-29 07:00:11'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -9,11 +9,11 @@ papers:
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
-    citations: 115
+    citations: 118
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
-    citations: 43
+    citations: 45
   BzYoaL8AAAAJ:eQOLeE2rZwMC:
     title: Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning
     year: '2024'
@@ -89,7 +89,7 @@ papers:
     title: Multi-agent reinforcement learning for distributed cooperative vehicular
       positioning
     year: '2024'
-    citations: 5
+    citations: 6
   BzYoaL8AAAAJ:0EnyYjriUFMC:
     title: Cooperative Positioning with Multi-Agent Reinforcement Learning
     year: '2024'
