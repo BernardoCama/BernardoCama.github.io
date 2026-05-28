@@ -242,6 +242,14 @@
   ],
   "publications": [
     {
+      "name": "Experimental Validation of 5G Positioning With Inter-Cell Clock Bias Correction",
+      "authors": "P. Xu, M. Brambilla, B. Camajori Tedeschini, M. Nicoli",
+      "releaseDate": "2026-05",
+      "publisher": "IEEE Access",
+      "url": "https://doi.org/10.1109/ACCESS.2026.3694117",
+      "summary": ""
+    },
+    {
       "name": "Weighted Consensus Algorithms in Distributed and Federated Learning",
       "authors": "B. Camajori Tedeschini, S. Savazzi, M. Nicoli",
       "releaseDate": "2025-01",
