@@ -1,15 +1,15 @@
 metadata:
-  last_updated: '2026-05-30 07:00:05'
+  last_updated: '2026-06-01 07:00:06'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
-    citations: 218
+    citations: 219
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
-    citations: 128
+    citations: 129
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
@@ -21,11 +21,11 @@ papers:
   BzYoaL8AAAAJ:W7OEmFMy1HYC:
     title: Deep-learning-based radio map reconstruction for V2X communications
     year: '2023'
-    citations: 39
+    citations: 40
   BzYoaL8AAAAJ:Y0pCki6q_DkC:
     title: Cooperative deep-learning positioning in mmWave 5G-advanced networks
     year: '2023'
-    citations: 40
+    citations: 41
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
