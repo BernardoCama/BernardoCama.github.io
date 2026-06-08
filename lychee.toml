@@ -19,3 +19,11 @@ user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Ge
 
 # Follow redirects
 max_redirects = 10
+
+# Exclude hosts that are consistently unreachable from GitHub's runners
+# (Azure IPs) despite being valid links — they fail with DNS errors or
+# 30s timeouts and would otherwise break the daily Scholar-citation auto-commit.
+#   www.deib.polimi.it — PoliMI DEIB; throttles/blocks cloud IP ranges
+exclude = [
+  "^https?://(www\\.)?deib\\.polimi\\.it",
+]
