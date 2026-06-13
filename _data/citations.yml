@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12 07:00:03'
+  last_updated: '2026-06-13 07:00:03'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -30,7 +30,7 @@ papers:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
     year: '2023'
-    citations: 35
+    citations: 36
   BzYoaL8AAAAJ:2osOgNQ5qMEC:
     title: On the latent space of mmWave MIMO channels for NLOS identification in
       5G-advanced systems
@@ -71,7 +71,7 @@ papers:
     title: 'Split consensus federated learning: An approach for distributed training
       and inference'
     year: '2024'
-    citations: 9
+    citations: 10
   BzYoaL8AAAAJ:UeHWp8X0CEIC:
     title: A traffic model based approach to parameter server design in federated
       learning processes
