@@ -1,15 +1,15 @@
 metadata:
-  last_updated: '2026-07-17 07:00:05'
+  last_updated: '2026-07-18 07:00:06'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
-    citations: 225
+    citations: 227
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
-    citations: 144
+    citations: 145
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
@@ -35,7 +35,7 @@ papers:
     title: On the latent space of mmWave MIMO channels for NLOS identification in
       5G-advanced systems
     year: '2023'
-    citations: 38
+    citations: 39
   BzYoaL8AAAAJ:5nxA0vEk-isC:
     title: 'Integration of 5G and GNSS technologies for enhanced positioning: An experimental
       study'
