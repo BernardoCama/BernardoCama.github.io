@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle:
-  Senior Systems Engineer at <a href='https://www.qualcomm.com/'>Qualcomm</a>. Ph.D. from <a href='https://www.deib.polimi.it/eng'>Politecnico di Milano</a>,
+  AI/ML Scientist at <a href='https://www.cmre.nato.int/'>NATO CMRE</a>. Ph.D. from <a href='https://www.deib.polimi.it/eng'>Politecnico di Milano</a>,
   visiting researcher at <a href='https://winslab.lids.mit.edu/'>MIT WINSLAB</a> and <a href='https://home.cern/'>CERN</a>.
 
 profile:
@@ -21,14 +21,23 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<!-- # V5 -->
+
+Bernardo Camajori Tedeschini (Member, IEEE) is an AI/ML Scientist at the NATO Centre for Maritime Research and Experimentation (CMRE), La Spezia, Italy, where he develops machine learning algorithms for maritime surveillance within the Data Knowledge and Operational Effectiveness (DKOE) team. He was previously a Senior Systems Engineer at Qualcomm, working on wireless R&D for 6G non-terrestrial networks (NTN). He received the B.Sc. (Hons.) degree in Computer Science Engineering, the M.Sc. (Hons.) degree in Telecommunications Engineering, and the Ph.D. (Hons.) degree in Information Technology from the Politecnico di Milano, in 2019, 2021, and 2024, respectively.
+
+He served as a Visiting Ph.D. Researcher at the Wireless Information and Network Sciences Laboratory, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA, in 2023 and 2024. In 2021, he was a Visiting Research Scientist at CERN, Geneva, Switzerland, where he worked on the CAFEIN project, focusing on the development and deployment of a federated network platform.
+His research interests encompass cooperative machine learning in distributed systems, 5G/6G positioning and localization methods, and machine learning for sensing and situational awareness.
+
+Dr. Camajori Tedeschini is a recipient of a Ph.D. grant from the Italian Ministero dell'Istruzione, dell'Università e della Ricerca (MIUR) and of the Roberto Rocca Doctoral Fellowship, jointly awarded by MIT and Politecnico di Milano. He was recognized with the IEEE Aerospace and Electronic Systems Society (AESS) Italy Chapter Best PhD Theses Award, the Prof. Florian Daniel Award for the best Ph.D. thesis in Information Technology at the Politecnico di Milano, the Dimitris N. Chorafas Foundation Award for outstanding scientific contributions, and the Springer Award for an exceptional Ph.D. dissertation in Information Technology.
+
 <!-- # V4 -->
 
-Bernardo Camajori Tedeschini (Member, IEEE) is a Senior Systems Engineer at Qualcomm, working on wireless R&D for 6G non-terrestrial networks (NTN). He received the B.Sc. (Hons.) degree in Computer Science Engineering, the M.Sc. (Hons.) degree in Telecommunications Engineering, and the Ph.D. (Hons.) degree in Information Technology from the Politecnico di Milano, in 2019, 2021, and 2024, respectively.
+<!-- Bernardo Camajori Tedeschini (Member, IEEE) is a Senior Systems Engineer at Qualcomm, working on wireless R&D for 6G non-terrestrial networks (NTN). He received the B.Sc. (Hons.) degree in Computer Science Engineering, the M.Sc. (Hons.) degree in Telecommunications Engineering, and the Ph.D. (Hons.) degree in Information Technology from the Politecnico di Milano, in 2019, 2021, and 2024, respectively.
 
 He served as a Visiting Ph.D. Researcher at the Wireless Information and Network Sciences Laboratory, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA, in 2023 and 2024. In 2021, he was a Visiting Research Scientist at CERN, Geneva, Switzerland, where he worked on the CAFEIN project, focusing on the development and deployment of a federated network platform.
 His research interests encompass cooperative machine learning in distributed systems, 5G/6G positioning, and localization methods.
 
-Dr. Camajori Tedeschini is a recipient of a Ph.D. grant from the Italian Ministero dell'Istruzione, dell'Università e della Ricerca (MIUR) and of the Roberto Rocca Doctoral Fellowship, jointly awarded by MIT and Politecnico di Milano. He was recognized with the IEEE Aerospace and Electronic Systems Society (AESS) Italy Chapter Best PhD Theses Award, the Prof. Florian Daniel Award for the best Ph.D. thesis in Information Technology at the Politecnico di Milano, the Dimitris N. Chorafas Foundation Award for outstanding scientific contributions, and the Springer Award for an exceptional Ph.D. dissertation in Information Technology.
+Dr. Camajori Tedeschini is a recipient of a Ph.D. grant from the Italian Ministero dell'Istruzione, dell'Università e della Ricerca (MIUR) and of the Roberto Rocca Doctoral Fellowship, jointly awarded by MIT and Politecnico di Milano. He was recognized with the IEEE Aerospace and Electronic Systems Society (AESS) Italy Chapter Best PhD Theses Award, the Prof. Florian Daniel Award for the best Ph.D. thesis in Information Technology at the Politecnico di Milano, the Dimitris N. Chorafas Foundation Award for outstanding scientific contributions, and the Springer Award for an exceptional Ph.D. dissertation in Information Technology. -->
 
 <!-- # V3 -->
 
