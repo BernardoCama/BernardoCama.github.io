@@ -1,5 +1,6 @@
 nbconvert
 scholarly
+bibtexparser<2
 requests
 beautifulsoup4
 pyyaml
