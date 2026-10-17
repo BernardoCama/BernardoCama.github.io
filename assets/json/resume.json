@@ -251,6 +251,14 @@
   ],
   "publications": [
     {
+      "name": "Incorporate Input Sensor Uncertainties in Neural Networks",
+      "authors": "B. Camajori Tedeschini, M. I. Gurelli, J. Lianghai, A. Karthik, Q. Wu",
+      "releaseDate": "2026-09",
+      "publisher": "IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+      "url": "https://doi.org/10.1109/PIMRC69400.2026.11711721",
+      "summary": ""
+    },
+    {
       "name": "Experimental Validation of 5G Positioning With Inter-Cell Clock Bias Correction",
       "authors": "P. Xu, M. Brambilla, B. Camajori Tedeschini, M. Nicoli",
       "releaseDate": "2026-05",
