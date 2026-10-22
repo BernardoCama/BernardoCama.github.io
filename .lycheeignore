@@ -16,3 +16,10 @@ https://github.com/alshedivat/al-folio/blob/.*
 # slow and intermittently times out from CI runners (verified live: HTTP 200).
 # A single transient timeout shouldn't fail the whole link-check run.
 https://winslab.lids.mit.edu/.*
+
+# PoliMI DEIB is a valid host but throttles/blocks cloud IP ranges and
+# intermittently answers 503 (it was down on 2026-10-22 and failed the run).
+https?://(www\.)?deib\.polimi\.it/.*
+
+# Unsplash returns 401 to bots.
+https://unsplash.com/.*

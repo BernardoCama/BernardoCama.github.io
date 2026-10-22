@@ -53,7 +53,9 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # Config (retries, accepted status codes, UA) in lychee.toml
-          # Ignored URLs in .lycheeignore
+          # Config (retries, timeout, UA) in lychee.toml; ignored URLs in .lycheeignore.
+          # --accept has to be here: lychee 0.14.0 ignores `accept` in lychee.toml.
+          # It adds 403 (bot protection), 429 (rate limit) and 500/502/503/504
+          # (transient server errors) to 2xx/3xx: none of them mean a broken link.
           # removed md files that include liquid tags
-          args: --config lychee.toml --exclude 'https://unsplash.com' --exclude-path README.md --exclude-path FAQ.md --exclude-path INSTALL.md --exclude-path CUSTOMIZE.md --exclude-path CONTRIBUTING.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: --config lychee.toml --accept '200..=299,301,302,303,307,308,403,429,500,502,503,504' --exclude-path README.md --exclude-path FAQ.md --exclude-path INSTALL.md --exclude-path CUSTOMIZE.md --exclude-path CONTRIBUTING.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
