@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-10-23 07:00:02'
+  last_updated: '2026-10-24 07:00:02'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -25,7 +25,7 @@ papers:
   BzYoaL8AAAAJ:Y0pCki6q_DkC:
     title: Cooperative deep-learning positioning in mmWave 5G-advanced networks
     year: '2023'
-    citations: 50
+    citations: 51
   BzYoaL8AAAAJ:IjCSPb-OGe4C:
     title: 'Cooperative lidar sensing for pedestrian detection: Data association based
       on message passing neural networks'
@@ -84,7 +84,7 @@ papers:
   BzYoaL8AAAAJ:3fE2CSJIrl8C:
     title: Weighted average consensus algorithms in distributed and federated learning
     year: '2025'
-    citations: 11
+    citations: 12
   BzYoaL8AAAAJ:hqOjcs7Dif8C:
     title: Multi-agent reinforcement learning for distributed cooperative vehicular
       positioning
