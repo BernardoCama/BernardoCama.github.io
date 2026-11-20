@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-11-19 07:00:01'
+  last_updated: '2026-11-20 07:00:02'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
       on tumor segmentation'
     year: '2022'
-    citations: 244
+    citations: 245
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
@@ -89,7 +89,7 @@ papers:
     title: Multi-agent reinforcement learning for distributed cooperative vehicular
       positioning
     year: '2024'
-    citations: 9
+    citations: 10
   BzYoaL8AAAAJ:0EnyYjriUFMC:
     title: Cooperative positioning with multi-agent reinforcement learning
     year: '2024'
