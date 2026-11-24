@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-11-23 07:00:01'
+  last_updated: '2026-11-24 07:00:01'
 papers:
   BzYoaL8AAAAJ:u5HHmVD_uO8C:
     title: 'Decentralized federated learning for healthcare networks: A case study
@@ -9,7 +9,7 @@ papers:
   BzYoaL8AAAAJ:YsMSGLbcyi4C:
     title: A tutorial on 5G positioning
     year: '2023'
-    citations: 189
+    citations: 190
   BzYoaL8AAAAJ:Tyk-4Ss8FVUC:
     title: A feasibility study of 5G positioning with current cellular network deployment
     year: '2023'
@@ -35,12 +35,12 @@ papers:
     title: On the latent space of mmWave MIMO channels for NLOS identification in
       5G-advanced systems
     year: '2023'
-    citations: 42
+    citations: 43
   BzYoaL8AAAAJ:5nxA0vEk-isC:
     title: 'Integration of 5G and GNSS technologies for enhanced positioning: An experimental
       study'
     year: '2024'
-    citations: 49
+    citations: 50
   BzYoaL8AAAAJ:zYLM7Y9cAGgC:
     title: Message passing neural network versus message passing algorithm for cooperative
       positioning
@@ -54,7 +54,7 @@ papers:
     title: On the impact of data heterogeneity in federated learning environments
       with application to healthcare networks
     year: '2024'
-    citations: 25
+    citations: 26
   BzYoaL8AAAAJ:9yKSN-GCB0IC:
     title: Addressing data association by message passing over graph neural networks
     year: '2022'
@@ -127,7 +127,7 @@ papers:
     title: On the Impact of Data Heterogeneity in Federated Learning Environments
       with Application to Healthcare Networks
     year: '2024'
-    citations: 0
+    citations: 1
   BzYoaL8AAAAJ:YOwf2qJgpHMC:
     title: Cooperative Machine Learning Methods in Distributed Systems
     year: '2026'
